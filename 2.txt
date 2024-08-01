@@ -1,0 +1,1 @@
+A Version Control System (VCS) is a tool that manages changes to files over time, keeping track of different versions. It allows multiple users to collaborate, ensures that changes are recorded, and helps manage the history of modifications, making it easier to revert to previous versions if needed.

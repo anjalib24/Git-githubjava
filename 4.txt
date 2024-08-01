@@ -1,0 +1,6 @@
+Popular Git hosting services include:
+
+1. GitHub - Offers a collaborative platform for version control and code management.
+2. GitLab - Provides integrated DevOps tools and CI/CD pipelines.
+3. Bitbucket- Supports Git and Mercurial repositories with built-in CI/CD features.
+4. SourceForge - Hosts open-source projects with version control and project management tools.

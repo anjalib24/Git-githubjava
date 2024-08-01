@@ -1,0 +1,7 @@
+A Git repository is a storage space where your project's files and their history are kept. It's a system for tracking changes to your code over time. There are two main types of Git repositories:
+
+1. Local Repository: This is on your own machine. It contains the project's files and a history of all changes you make.
+
+2. Remote Repository: This is hosted on a server (like GitHub, GitLab, or Bitbucket) and allows multiple people to collaborate on the project.
+
+The repository tracks changes using commits, which are snapshots of your project at specific points in time. It also manages different versions and branches, allowing you to work on features or fixes separately from the main codebase.

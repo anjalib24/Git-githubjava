@@ -1,0 +1,17 @@
+
+
+1. Centralized Version Control Systems (CVCS):
+   - Central repository, users check out and commit changes.
+   - Example: SVN, CVS.
+
+2. Distributed Version Control Systems (DVCS):
+   - Every user has a full copy of the repository, enabling offline work.
+   - Example: Git, Mercurial.
+
+3. File Version Control Systems:
+   - Manages versions of individual files.
+   - Example: RCS.
+
+4. Configuration Management Systems:
+   - Manages configurations and deployments.
+   - Example: Puppet, Ansible.
